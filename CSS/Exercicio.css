@@ -11,6 +11,13 @@ p, h1, h2{
     color: aliceblue;
 }
 section{
-    align-items: end;
+ 
     height: 120vh;
+    text-align: center;
+}
+video{
+    align-items: center;
+    text-align: center;
+    float:center;
+    width: 1885px;
 }
