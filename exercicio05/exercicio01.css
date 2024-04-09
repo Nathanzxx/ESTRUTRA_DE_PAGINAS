@@ -3,20 +3,21 @@ body {
 }
 
 div {
-    background-color:rgb(97, 97, 97);
-    border-top: 3px dotted red;
-    border-right: 5px solid red;
-    border-bottom: 10px solid red;
-    border-left: 5px solid red;
+    background-color: rgb(53, 53, 53);
+    border-top: 3px dotted rgb(212, 24, 24);
+    border-right: 5px solid rgb(212, 24, 24);
+    border-bottom: 10px solid rgb(212, 24, 24);
+    border-left: 5px solid rgb(212, 24, 24);
 }
 
-p{
+p {
     margin-top: 0px;
     margin-left: 15px;
     margin-bottom: 25px;
-   
+
 }
-h2{
+
+h2 {
     margin-top: 18px;
     margin-left: 15px;
     margin-bottom: 0px
