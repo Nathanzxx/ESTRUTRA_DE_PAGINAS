@@ -1,0 +1,16 @@
+body {
+    background-image: url(../IMG/sakura.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+   background-size: cover;
+
+}
+
+p, h1, h2{
+    text-align: center;
+    color: aliceblue;
+}
+section{
+    align-items: end;
+    height: 120vh;
+}

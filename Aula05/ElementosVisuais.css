@@ -1,0 +1,13 @@
+body{
+    background-image: url('../IMG/1105701_1080p_cloudy_weather_1920x1080.mp4');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+section{
+    height: min-content;
+}
+h1, p{
+    color: cornsilk;
+    
+}
